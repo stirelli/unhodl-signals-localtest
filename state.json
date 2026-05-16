@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-05-16T00:05:00Z",
+  "cron_ok": true,
+  "binance_data_ok": true,
+  "self_test_passed": true,
+  "active": [
+    "ATOM",
+    "DOGE",
+    "HBAR",
+    "INJ",
+    "LINK",
+    "NEAR"
+  ],
+  "cash": [
+    "AAVE",
+    "ADA",
+    "AVAX",
+    "SOL"
+  ],
+  "exposure_pct": 60.0
+}
