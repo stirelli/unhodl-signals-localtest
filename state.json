@@ -4,18 +4,19 @@
   "cron_ok": true,
   "binance_data_ok": true,
   "self_test_passed": true,
-  "active": [],
-  "cash": [
-    "AAVE",
-    "ADA",
+  "active": [
     "ATOM",
-    "AVAX",
     "DOGE",
     "HBAR",
     "INJ",
     "LINK",
-    "NEAR",
+    "NEAR"
+  ],
+  "cash": [
+    "AAVE",
+    "ADA",
+    "AVAX",
     "SOL"
   ],
-  "exposure_pct": 0.0
+  "exposure_pct": 60.0
 }
