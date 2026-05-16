@@ -5,18 +5,18 @@
   "binance_data_ok": true,
   "self_test_passed": true,
   "active": [
-    "ATOM",
-    "DOGE",
-    "HBAR",
-    "INJ",
-    "LINK",
-    "NEAR"
+    "DOGE"
   ],
   "cash": [
     "AAVE",
     "ADA",
+    "ATOM",
     "AVAX",
+    "HBAR",
+    "INJ",
+    "LINK",
+    "NEAR",
     "SOL"
   ],
-  "exposure_pct": 60.0
+  "exposure_pct": 10.0
 }
