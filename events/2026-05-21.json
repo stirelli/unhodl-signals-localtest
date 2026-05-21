@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "ts": "2026-05-21T00:05:00Z",
+  "events": [
+    {
+      "coin": "INJ",
+      "action": "entry",
+      "price": 4.817
+    },
+    {
+      "coin": "NEAR",
+      "action": "entry",
+      "price": 1.7
+    },
+    {
+      "coin": "ATOM",
+      "action": "entry",
+      "price": 1.99
+    }
+  ]
+}
